@@ -24,6 +24,7 @@
 <!-- TABLE OF CONTENTS -->
 ###### YouTube Channel: https://youtube.com/andisetiadii
 -----
+### Playlist
 * [Materi VBA Dasar](#materi-vba-dasar)
 * [VBA Tips & Trick](#vba-tips-and-trick)
 * [VBA CRUD (Create, Read, Update, Delete)](#vba-crud)
@@ -51,6 +52,7 @@ List video berisi tutorial Visual Basic for Applications (VBA) dari Dasar
 20. <a href="https://youtu.be/0Zqj2nyEOYk">Static</a> 
 
 ## VBA Tips and Trick
+Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil penyelsaikan kasus-kasus VBA yang ditanyakan melalui email atau telegram.
 1. <a href="https://youtu.be/1K7nmC7ae_U">Mengisi Cell/Range dengan VBA</a>
 2. <a href="https://youtu.be/v_eC8jmCUxY">5 Cara mengisi Combobox</a>
 3. <a href="https://youtu.be/UxTxHtJR5oY">Menjalankan Script VBA di Android</a>
@@ -60,10 +62,12 @@ List video berisi tutorial Visual Basic for Applications (VBA) dari Dasar
 
 
 ## VBA CRUD
+Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
 1. <a href="https://youtu.be/bJKZ59KMGAU">Design UserForm</a> 
 2. <a href="https://youtu.be/EW0E_FhvngE">VBA Simpan (Create)</a> 
 
 ## VBA Fun
+Have Fun with VBA!
 1. <a href="https://youtu.be/bZNx0dIMcVY">Membuat Google Search & YouTube Search Dengan VBA</a> 
 
 
