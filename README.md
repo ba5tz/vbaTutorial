@@ -17,7 +17,7 @@
     ·
     <a href="https://setiadi.my.id">Website</a>
     ·
-    <a href="https://setiadi.my.id">Request Tutorial</a>
+    <a href="https://setiadi.my.id/kontak/">Request Tutorial</a>
   </p>
 </p>
 
