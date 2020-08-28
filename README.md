@@ -59,7 +59,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 4. <a href="https://youtu.be/OYa948yqXJs">Merubah Warna Visual Basic Editor</a>
 5. <a href="https://youtu.be/jmfy0JT1d5Q">Membuka VBE dengan Tombol</a> 
 6. <a href="https://youtu.be/4sG5D8Gmf24">Multi Events</a> 
-
+7. <a href="https://youtu.be/vuMK59QEi9s">Membuat Shortcut untuk Comment dan Uncomment di VBE</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
