@@ -41,7 +41,7 @@ List video berisi tutorial Visual Basic for Applications (VBA) dari Dasar
 7. <a href="https://youtu.be/kLIeUTzfvNk">For Each Next</a>
 8. <a href="https://youtu.be/6ekywc9gmJU">Do While Loop</a>
 9. <a href="https://youtu.be/-TiwL8sb-9c">Do Until Loop</a>
-10. <a href="https://youtu.be/xaOm32K6Zws">Penggunaan IF</a>
+10. <a href="https://youtu.be/dNc3Qa8U9D0">Penggunaan IF</a>
 12. <a href="https://youtu.be/gOalPp8vo8M">Select Case</a>
 14. <a href="https://youtu.be/5EueFJScpMk">Subrutine</a>
 15. <a href="https://youtu.be/ZtVHJ0u2ouU">Subrutine Parameters</a>
