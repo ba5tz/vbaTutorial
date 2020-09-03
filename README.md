@@ -8,7 +8,7 @@
   <h3 align="center">Andi Setiadi YouTube Channel</h3>
 
   <p align="center">
-    VBA Macro. Excel. Google Sheet
+    Excel. Google Sheet . Macro
     <br />
     <a href="https://setiadi.my.id"><strong>Explore »</strong></a>
     <br />
@@ -29,6 +29,7 @@
 * [VBA Tips & Trick](#vba-tips-and-trick)
 * [VBA CRUD (Create, Read, Update, Delete)](#vba-crud)
 * [VBA Fun](#vba-fun)
+* [Google AppScript](#google-appscript]
 
 ## Materi VBA Dasar
 List video berisi tutorial Visual Basic for Applications (VBA) dari Dasar
@@ -70,6 +71,10 @@ Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data,
 ## VBA Fun
 Have Fun with VBA!
 1. <a href="https://youtu.be/bZNx0dIMcVY">Membuat Google Search & YouTube Search Dengan VBA</a> 
+
+## Google AppScript
+Tutorial Google Appscript (JS) sebuah macro yang bisa digunakan dalam Google Sheet atau Produk Google lainnya
+1. <a href="https://youtu.be/orvH0c90iFk">Form Input Sederhana</a> 
 
 
 
