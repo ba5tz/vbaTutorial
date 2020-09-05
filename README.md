@@ -29,7 +29,7 @@
 * [VBA Tips & Trick](#vba-tips-and-trick)
 * [VBA CRUD (Create, Read, Update, Delete)](#vba-crud)
 * [VBA Fun](#vba-fun)
-* [Google AppScript](#google-appscript)
+* [Google AppScript](#google-apps-script)
 
 ## Materi VBA Dasar
 List video berisi tutorial Visual Basic for Applications (VBA) dari Dasar
