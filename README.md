@@ -62,7 +62,8 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 5. <a href="https://youtu.be/jmfy0JT1d5Q">Membuka VBE dengan Tombol</a> 
 6. <a href="https://youtu.be/4sG5D8Gmf24">Multi Events</a> 
 7. <a href="https://youtu.be/vuMK59QEi9s">Membuat Shortcut untuk Comment dan Uncomment di VBE</a>
-7. <a href="https://youtu.be/FOItRD_UNBM">Membuat Running Text</a>
+8. <a href="https://youtu.be/FOItRD_UNBM">Membuat Running Text</a>
+9. <a href="https://youtu.be/21HZyGciCYs">Export Multi Sheet Menjadi 1 File PDF</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
