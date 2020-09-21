@@ -64,10 +64,11 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 7. <a href="https://youtu.be/vuMK59QEi9s">Membuat Shortcut untuk Comment dan Uncomment di VBE</a>
 8. <a href="https://youtu.be/FOItRD_UNBM">Membuat Running Text</a>
 9. <a href="https://youtu.be/21HZyGciCYs">Export Multi Sheet Menjadi 1 File PDF</a>
-10. <a href="https://youtu.be/KtE3JtGtOMk">Mengirim Email Gmail dengan VBA</a>
-11. <a href="https://youtu.be/e2nrQpwdhw8">Mengirim Email Gmail dengan VBA dengan Attachment</a>
+10. <a href="https://youtu.be/KtE3JtGtOMk">Mengirim Email Gmail dengan VBA (CDO)</a>
+11. <a href="https://youtu.be/e2nrQpwdhw8">Mengirim Email Gmail dengan VBA dengan Attachment (CDO)</a>
 12. <a href="https://youtu.be/zHVz8xmvByc">Runtime ERROR dan Compile Error</a>
 13. <a href="https://youtu.be/Ke6Y24rhE4k">Sheet Code Name, Sheet Tab Name dan Sheet Index</a>
+14. <a href="https://youtu.be/5CA27Q0dJ0Q">Mengirim Email Melalui Outlook dengan VBA</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
