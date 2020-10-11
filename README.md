@@ -52,6 +52,7 @@ List video berisi tutorial Visual Basic for Applications (VBA) dari Dasar
 19. <a href="https://youtu.be/dQfU1J1cd8A">With</a>
 20. <a href="https://youtu.be/0Zqj2nyEOYk">Static</a> 
 21. <a href="https://youtu.be/e7gFowpisK4">ParamArray</a> 
+22. <a href="https://youtu.be/Z9mGlfYsu2Q">Enum (Enumeration)</a> 
 
 ## VBA Tips and Trick
 Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil penyelsaikan kasus-kasus VBA yang ditanyakan melalui email atau telegram.
