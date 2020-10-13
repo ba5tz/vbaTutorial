@@ -22,7 +22,6 @@ ArrSheet = Application.Transpose(Sheet1.Range("A2:A" & Baris))                  
 For Each Sht In ArrSheet                                                            'Looping Array
     If CheckSheet(Sht) Then Sheets.Add(after:=Sheets(Sheets.Count)).Name = Sht
 Next
-
 End Sub
 
 Function CheckSheet(Sht As Variant) As Boolean   'Fungsi Untuk Mengecek Nama Sheet sudah digunakan atau belum
