@@ -15,6 +15,7 @@
 Sub BuatSheet()
 Dim ArrSheet As Variant
 Dim Baris As Long
+Dim Sht as Variant
 
 Baris = Sheet1.Range("A2").End(xlDown).Row                                          'Menghitung Baris Akhir
 ArrSheet = Application.Transpose(Sheet1.Range("A2:A" & Baris))                      'Array Nama Sheet yang akan dibuat
