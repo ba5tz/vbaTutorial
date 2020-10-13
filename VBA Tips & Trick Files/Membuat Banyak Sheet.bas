@@ -17,7 +17,7 @@ Dim ArrSheet As Variant
 Dim Baris As Long
 Dim Sht as Variant
 
-Baris = Sheet1.Range("A2").End(xlDown).Row                                          'Menghitung Baris Akhir
+Baris = Sheet1.Range("A1").End(xlDown).Row                                          'Menghitung Baris Akhir
 ArrSheet = Application.Transpose(Sheet1.Range("A2:A" & Baris))                      'Array Nama Sheet yang akan dibuat
 For Each Sht In ArrSheet                                                            'Looping Array
     If CheckSheet(Sht) Then Sheets.Add(after:=Sheets(Sheets.Count)).Name = Sht
