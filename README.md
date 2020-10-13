@@ -70,6 +70,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 12. <a href="https://youtu.be/zHVz8xmvByc">Runtime ERROR dan Compile Error</a>
 13. <a href="https://youtu.be/Ke6Y24rhE4k">Sheet Code Name, Sheet Tab Name dan Sheet Index</a>
 14. <a href="https://youtu.be/5CA27Q0dJ0Q">Mengirim Email Melalui Outlook dengan VBA</a>
+14. <a href="https://youtu.be/_fEOg0h_Z2Y">Membuat Banyak Sheet Sekaligus</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
