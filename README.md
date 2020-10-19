@@ -75,6 +75,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 14. <a href="https://youtu.be/_fEOg0h_Z2Y">Membuat Banyak Sheet Sekaligus</a>
 
 ## Formula Tips and Trick
+Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
 1. <a href="https://youtu.be/9LKnV38736E">Lookup Data Terkahir di Excel VS Google Sheet</a>
 
 ## VBA CRUD
