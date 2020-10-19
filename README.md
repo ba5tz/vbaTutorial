@@ -27,7 +27,9 @@
 ### Playlist
 * [Materi VBA Dasar](#materi-vba-dasar)
 * [VBA Tips & Trick](#vba-tips-and-trick)
+* [Formula Tips & Trick](#Formula-tips-and-trick)
 * [VBA CRUD (Create, Read, Update, Delete)](#vba-crud)
+* [VBA CRUD Google Sheet](#vba-google-sheet)
 * [VBA Fun](#vba-fun)
 * [Google AppScript](#google-apps-script)
 
@@ -72,10 +74,17 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 14. <a href="https://youtu.be/5CA27Q0dJ0Q">Mengirim Email Melalui Outlook dengan VBA</a>
 14. <a href="https://youtu.be/_fEOg0h_Z2Y">Membuat Banyak Sheet Sekaligus</a>
 
+## Formula Tips and Trick
+1. <a href="https://youtu.be/9LKnV38736E">Lookup Data Terkahir di Excel VS Google Sheet</a>
+
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
 1. <a href="https://youtu.be/bJKZ59KMGAU">Design UserForm</a> 
 2. <a href="https://youtu.be/EW0E_FhvngE">VBA Simpan (Create)</a> 
+
+## VBA Google Sheet
+Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung Dari VBA Excel ke Google Sheet menggunakan API Google Sheet
+1. <a href="https://youtu.be/-w3-Vg2ZzSM">Input VBA Excel Form ke Google Sheet</a> 
 
 ## VBA Fun
 Have Fun with VBA!
