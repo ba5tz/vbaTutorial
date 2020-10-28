@@ -9,7 +9,7 @@
 '\_/ \_/_| |_|\__,_|_| \__/\___|\__|_|\__,_|\__,_|_|
 '
 '           Auth    : Andi Setiadi
-'           Date    : 13 Oktober 2020
+'           Date    : 28 Oktober 2020
 '           About   : Upload File ke web Melalui FTP
 
 Private Const FTP_TRANSFER_TYPE_UNKNOWN     As Long = 0
