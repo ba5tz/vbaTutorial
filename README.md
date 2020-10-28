@@ -72,7 +72,10 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 12. <a href="https://youtu.be/zHVz8xmvByc">Runtime ERROR dan Compile Error</a>
 13. <a href="https://youtu.be/Ke6Y24rhE4k">Sheet Code Name, Sheet Tab Name dan Sheet Index</a>
 14. <a href="https://youtu.be/5CA27Q0dJ0Q">Mengirim Email Melalui Outlook dengan VBA</a>
-14. <a href="https://youtu.be/_fEOg0h_Z2Y">Membuat Banyak Sheet Sekaligus</a>
+15. <a href="https://youtu.be/_fEOg0h_Z2Y">Membuat Banyak Sheet Sekaligus</a>
+16. <a href="https://youtu.be/9y-riDYn8FE">Parse JSON dengan VBA</a>
+17. <a href="https://youtu.be/Ki7JYJKg6_s">Membuat File DBF Dengan VBA</a>
+18. <a href="https://youtu.be/s1MFPJCafB0">Upload File ke Web dengan FTP menggunakan VBA</a>
 
 ## Formula Tips and Trick
 Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
