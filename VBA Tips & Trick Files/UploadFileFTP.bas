@@ -15,22 +15,22 @@
 Private Const FTP_TRANSFER_TYPE_UNKNOWN     As Long = 0
 Private Const INTERNET_FLAG_RELOAD          As Long = &H80000000
  
-Private Declare Function InternetOpenA Lib "wininet.dll" ( _
-    ByVal sAgent As String, _
-    ByVal lAccessType As Long, _
-    ByVal sProxyName As String, _
-    ByVal sProxyBypass As String, _
-    ByVal lFlags As Long) As Long
+Declare Function InternetOpen Lib "wininet.dll" Alias "InternetOpenA" ( _ 
+	 ByVal lpszAgent As String, _ 
+	 ByVal dwAccessType As Long, _ 
+	 ByVal lpszProxy As String, _ 
+	 ByVal lpszProxyBypass As String, _ 
+	 ByVal dwFlags As Long) As Long 
  
-Private Declare Function InternetConnectA Lib "wininet.dll" ( _
-    ByVal hInternetSession As Long, _
-    ByVal sServerName As String, _
-    ByVal nServerPort As Long, _
-    ByVal sUsername As String, _
-    ByVal sPassword As String, _
-    ByVal lService As Long, _
-    ByVal lFlags As Long, _
-    ByVal lcontext As Long) As Long
+Declare Function InternetConnect Lib "wininet.dll" Alias "InternetConnectA" ( _ 
+	 ByVal hInternet As Long, _ 
+	 ByVal lpszServerName As String, _ 
+	 ByVal nServerPort As Long, _ 
+	 ByVal lpszUserName As String, _ 
+	 ByVal lpszPassword As String, _ 
+	 ByVal dwService As Long, _ 
+	 ByVal dwFlags As Long, _ 
+	 ByVal dwContext As Long) As Long 
  
 Private Declare Function FtpPutFileA _
    Lib "wininet.dll" _
@@ -48,8 +48,8 @@ Sub FtpUpload(ByVal strLocalFile As String, ByVal strRemoteFile As String, ByVal
     Dim hOpen   As Long
     Dim hConn   As Long
  
-    hOpen = InternetOpenA("FTPGET", 1, vbNullString, vbNullString, 1)
-    hConn = InternetConnectA(hOpen, strHost, lngPort, strUser, strPass, 1, 0, 2)
+    hOpen = InternetOpen("FTPGET", 1, vbNullString, vbNullString, 1)
+    hConn = InternetConnect(hOpen, strHost, lngPort, strUser, strPass, 1, 0, 2)
     Status = FtpPutFileA(hConn, strLocalFile, strRemoteFile, FTP_TRANSFER_TYPE_UNKNOWN Or INTERNET_FLAG_RELOAD, 0) 
     If Status Then
         Debug.Print "Upload Success"
@@ -65,7 +65,7 @@ End Sub
  
 'Pengunaaan
 '--------------------
-Sub TestUpload
+Sub TestUpload()
 FtpUpload "C:\LokadiFile\Nama Fiile.txt", "//Download/Nama file.txt", _
             "192.168.0.100", 21, "username", "password"
 End Sub
