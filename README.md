@@ -76,6 +76,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 16. <a href="https://youtu.be/9y-riDYn8FE">Parse JSON dengan VBA</a>
 17. <a href="https://youtu.be/Ki7JYJKg6_s">Membuat File DBF Dengan VBA</a>
 18. <a href="https://youtu.be/s1MFPJCafB0">Upload File ke Web dengan FTP menggunakan VBA</a>
+18. <a href="https://youtu.be/4tNIGKMVSPI">Mencetak dan Menampilkan File PDF di UserForm</a>
 
 ## Formula Tips and Trick
 Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
