@@ -98,6 +98,7 @@ Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data,
 Have Fun with VBA!
 1. <a href="https://youtu.be/bZNx0dIMcVY">Membuat Google Search & YouTube Search Dengan VBA</a> 
 2. <a href="https://youtu.be/W8W7mEA8kz0">Animated Login Form Dengan VBA</a>
+3. <a href="https://youtu.be/0fPg4nO-6WA">Membuat Game Control Sederhana dengan VBA</a>
 
 ## Google Apps Script
 Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google Sheet atau Produk Google lainnya
