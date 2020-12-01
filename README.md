@@ -104,6 +104,7 @@ Have Fun with VBA!
 Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google Sheet atau Produk Google lainnya
 1. <a href="https://youtu.be/orvH0c90iFk">Form Input Sederhana</a> 
 2. <a href="https://youtu.be/vea4dCzngOU">TimeStamp dan Conditional Border</a>
+3. <a href="https://youtu.be/NKkol9gS5iY">Menambah Formula ke Respon Google Form</a>
 
 
 
