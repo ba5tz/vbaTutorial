@@ -106,6 +106,7 @@ Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google 
 2. <a href="https://youtu.be/vea4dCzngOU">TimeStamp dan Conditional Border</a>
 3. <a href="https://youtu.be/NKkol9gS5iY">Menambah Formula ke Respon Google Form</a>
 4. <a href="https://youtu.be/35M9O4XFx7c">Google Sheet Geocoding dan Reverse Geocoding</a>
+5. <a href="https://youtu.be/ek_XrdkcUXg">Menampilkan Gambar Hasil Respon Google Form</a>
 
 
 
