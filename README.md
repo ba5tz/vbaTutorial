@@ -108,5 +108,6 @@ Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google 
 4. <a href="https://youtu.be/35M9O4XFx7c">Google Sheet Geocoding dan Reverse Geocoding</a>
 5. <a href="https://youtu.be/ek_XrdkcUXg">Menampilkan Gambar Hasil Respon Google Form</a>
 
-
-
+## Tutorial CustomUI / Ribbon Menu
+Tutorial membuat CustomUI atau Ribbon Menu di Excel
+1. <a href="https://youtu.be/JPMUPPm_xBs">Episode 1: Konsep dasar</a> 
