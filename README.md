@@ -1,5 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ba5tz/StrapDown.js/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Ba5tz)
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/Andi Setiadi.png" alt="Logo">
