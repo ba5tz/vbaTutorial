@@ -12,3 +12,24 @@ function reversegeocode(lat, long){
   return jsn.results[0].formatted_address;
 
 }
+
+function hitungJarak(asal,tujuan){
+  
+  var mapobj = Maps.newDirectionFinder();
+  mapobj.setOrigin(asal);
+  mapobj.setDestination(tujuan);
+  var hasil = mapobj.getDirections();
+
+  return hasil.routes[0].legs[0].distance.value;
+}
+
+function hitungJarakLat(lat1,long1,lat2,long2){
+  
+  var mapobj = Maps.newDirectionFinder();
+  mapobj.setOrigin(lat1, long1)
+  mapobj.setDestination(lat2,long2);
+  var hasil = mapobj.getDirections();
+
+  return hasil.routes[0].legs[0].distance.value;
+
+}
