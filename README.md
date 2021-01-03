@@ -112,6 +112,8 @@ Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google 
 3. <a href="https://youtu.be/NKkol9gS5iY">Menambah Formula ke Respon Google Form</a>
 4. <a href="https://youtu.be/35M9O4XFx7c">Google Sheet Geocoding dan Reverse Geocoding</a>
 5. <a href="https://youtu.be/ek_XrdkcUXg">Menampilkan Gambar Hasil Respon Google Form</a>
+6. <a href="https://youtu.be/wvG2md767lo">Google Sheet Menghitung Jarak dengan Alamat dan LatLong</a>
+
 
 ## Tutorial CustomUI / Ribbon Menu
 Tutorial membuat CustomUI atau Ribbon Menu di Excel
