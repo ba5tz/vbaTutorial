@@ -83,6 +83,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 21. <a href="https://youtu.be/JsUB1TG_SCw">Menghapus Baris Sesuai Kriteria</a>
 22. <a href="https://youtu.be/S7JpEtEqzTU">Menampilkan Garfik pada Userform VBA</a>
 23. <a href="https://youtu.be/L8qJKKvjRPg">Membuat Userform VBA selalu tampil diatas Aplikasi lain</a>
+25. <a href="https://youtu.be/Lf_pNY1uKfs">Menambah Icon ke Userform VBA</a>
 
 
 ## Formula Tips and Trick (Excel & Google Sheet)
