@@ -1,11 +1,9 @@
+[![Author](https://img.shields.io/badge/author-Andi%20B.%20Setiadi-lightgrey.svg?colorB=1D63DC&style=flat-square)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ba5tz/StrapDown.js/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Ba5tz)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Andi Setiadi.png" alt="Logo">
-  </a>
 
   <h3 align="center">Andi Setiadi YouTube Channel</h3>
 
