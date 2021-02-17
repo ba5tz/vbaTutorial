@@ -84,6 +84,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 24. <a href="https://youtu.be/Lf_pNY1uKfs">Menambah Icon ke Userform VBA</a>
 25. <a href="https://youtu.be/QNjwnnl_PBU">Copy Text ke Clipboard</a>
 26. <a href="https://youtu.be/_ENm6e_o5s0">Perbedaan TEXT, VALUE dan VALUE2</a>
+27. <a href="https://youtu.be/sCyxChhhtDI">Cara menambahkan Deskripsi pada UDF (User Defined Function)</a>
 
 ## Formula Tips and Trick (Excel & Google Sheet)
 Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
