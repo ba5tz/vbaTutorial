@@ -119,3 +119,4 @@ Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google 
 ## Tutorial CustomUI / Ribbon Menu
 Tutorial membuat CustomUI atau Ribbon Menu di Excel
 1. <a href="https://youtu.be/JPMUPPm_xBs">Episode 1: Konsep dasar</a> 
+2. <a href="https://youtu.be/qlMLsFq0MNA">Episode 2: Install CustomUI Editor & CustomUI RibbonX Editor</a>
