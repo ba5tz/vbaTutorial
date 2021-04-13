@@ -105,6 +105,7 @@ Have Fun with VBA!
 1. <a href="https://youtu.be/bZNx0dIMcVY">Membuat Google Search & YouTube Search Dengan VBA</a> 
 2. <a href="https://youtu.be/W8W7mEA8kz0">Animated Login Form Dengan VBA</a>
 3. <a href="https://youtu.be/0fPg4nO-6WA">Membuat Game Control Sederhana dengan VBA</a>
+4. <a href="https://youtu.be/xrv9T3hhVwI">Membuat Aplikasi Jadwal Shalat dan Imsak (Auto Update)</a>
 
 ## Google Apps Script
 Tutorial Google Apps script (GAS) sebuah macro yang bisa digunakan dalam Google Sheet atau Produk Google lainnya
