@@ -91,6 +91,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
 1. <a href="https://youtu.be/9LKnV38736E">Lookup Data Terkahir di Excel VS Google Sheet</a>
 1. <a href="https://youtu.be/3NqctTfPjF4">Rumus Filter (Google Sheet)</a>
+2. <a href="https://youtu.be/VcOJX9izM7o">Rumus Menghitung Berdasarkan Warna tanpa VBA (Excel)</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
