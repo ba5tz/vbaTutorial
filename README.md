@@ -92,6 +92,9 @@ Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Googl
 1. <a href="https://youtu.be/9LKnV38736E">Lookup Data Terkahir di Excel VS Google Sheet</a>
 1. <a href="https://youtu.be/3NqctTfPjF4">Rumus Filter (Google Sheet)</a>
 2. <a href="https://youtu.be/VcOJX9izM7o">Rumus Menghitung Berdasarkan Warna tanpa VBA (Excel)</a>
+3. <a href="https://youtu.be/5lnuhF1TLTA">Rumus konversi Masehi ke Hijariah</a>
+4. <a href="https://youtu.be/EsOkf3vp-C8">Cara Koreksi Jawaban siswa dengan mudah pake Excel</a>
+5. <a href="https://youtu.be/rrsPjyco5YA">FilterXML Trick</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
