@@ -86,6 +86,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 26. <a href="https://youtu.be/_ENm6e_o5s0">Perbedaan TEXT, VALUE dan VALUE2</a>
 27. <a href="https://youtu.be/sCyxChhhtDI">Cara menambahkan Deskripsi pada UDF (User Defined Function)</a>
 28. <a href="https://youtu.be/eoA8gOKuA7A">Mengolah File JSON dengan PowerQuery dan VBA</a>
+29. <a href="https://youtu.be/i2zdaRk6d2s">Rumus Mengitung Berdasarkan warna (VBA)</a>
 
 ## Formula Tips and Trick (Excel & Google Sheet)
 Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
@@ -95,6 +96,9 @@ Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Googl
 3. <a href="https://youtu.be/5lnuhF1TLTA">Rumus konversi Masehi ke Hijariah</a>
 4. <a href="https://youtu.be/EsOkf3vp-C8">Cara Koreksi Jawaban siswa dengan mudah pake Excel</a>
 5. <a href="https://youtu.be/rrsPjyco5YA">FilterXML Trick</a>
+6. <a href="https://youtu.be/kvCHuzU3xkg">Menghitung Jumalah Kata</a>
+7. <a href="https://youtu.be/BJ9uanrFT1U">Rumus Tambah Kurang kali dan Bagi</a>
+8. <a href="https://youtu.be/ejnRFMYmexc">Rumus Untuk Menggabungkan Isi Cell</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
