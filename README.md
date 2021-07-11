@@ -99,6 +99,11 @@ Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Googl
 6. <a href="https://youtu.be/kvCHuzU3xkg">Menghitung Jumalah Kata</a>
 7. <a href="https://youtu.be/BJ9uanrFT1U">Rumus Tambah Kurang kali dan Bagi</a>
 8. <a href="https://youtu.be/ejnRFMYmexc">Rumus Untuk Menggabungkan Isi Cell</a>
+9. <a href="https://youtu.be/ZhNaXdPpLTEc">Rumus Menampilkan Isi List File Tanpa VBA</a>
+10. <a href="https://youtu.be/mMgWWE6vAkg">Membuat Warna otomatis pada Hari libur</a>
+11. <a href="https://youtu.be/RZhgIMVsybo">Rumus Mengubah Angka Menjadi Angka Arab</a>
+12. <a href="https://youtu.be/e29e11K43D4">Rumus Menghitung Rentang Umur</a>
+13. <a href="https://youtu.be/laH0bmwBJG4">Rumus Membuat Tanggal Acak</a>
 
 ## VBA CRUD
 Membuat CRUD (Create, Read, Update dan Delete) sebuah form untuk menyimpan data, mengedit dan menghapus langsung ke worksheet Excel
