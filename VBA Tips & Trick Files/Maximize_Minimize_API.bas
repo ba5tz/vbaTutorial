@@ -9,7 +9,7 @@
 '\_/ \_/_| |_|\__,_|_| \__/\___|\__|_|\__,_|\__,_|_|
 '
 '           Auth    : Andi Setiadi
-'           Date    : 22 September 2020
+'           Date    : 14 Juli 2021
 '           About   :
 '
 ' Cara Penggunaan
