@@ -87,6 +87,7 @@ Berisi Tips dan Trick dalam menggunakan VBA, pada list ini juga berisi hasil pen
 27. <a href="https://youtu.be/sCyxChhhtDI">Cara menambahkan Deskripsi pada UDF (User Defined Function)</a>
 28. <a href="https://youtu.be/eoA8gOKuA7A">Mengolah File JSON dengan PowerQuery dan VBA</a>
 29. <a href="https://youtu.be/i2zdaRk6d2s">Rumus Mengitung Berdasarkan warna (VBA)</a>
+29. <a href="https://youtu.be/qhmBPqd_GCA">Menambah Maximize dan Minize pada Userform</a>
 
 ## Formula Tips and Trick (Excel & Google Sheet)
 Berisi tutorial tentang Formula yang ada di Spreadsheet baik Excel ataupun Google Sheet dengan Tips dan Trick yang bisa mempermudah pekerjaan.
