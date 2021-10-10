@@ -1,3 +1,22 @@
+'
+' ---------------------------------------------------------
+'| YouTube Channel      : Http://youtube.com/andisetiadii  |
+' ---------------------------------------------------------
+'   _             _ _   __      _   _           _ _
+'  /_\  _ __   __| (_) / _\ ___| |_(_) __ _  __| (_)
+' //_\\| '_ \ / _` | | \ \ / _ \ __| |/ _` |/ _` | |
+'/  _  \ | | | (_| | | _\ \  __/ |_| | (_| | (_| | |
+'\_/ \_/_| |_|\__,_|_| \__/\___|\__|_|\__,_|\__,_|_|
+'
+'           Author    : Andi Setiadi
+'           Update    : 10 Oktober 2021
+'           About     : Transparent Userform
+'
+'       Cara Penggunaan
+'       1. Simpan script Module
+'       2. untuk penggunaanya panggil BuatTransparent me.caption
+'
+
 #If Win64 And VBA7 Then
 Private Declare PtrSafe Function SetLayeredWindowAttributes Lib "user32.dll" _
   (ByVal hwnd As Long, _
