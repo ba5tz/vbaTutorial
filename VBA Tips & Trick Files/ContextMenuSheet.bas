@@ -1,3 +1,20 @@
+' ---------------------------------------------------------
+'| YouTube Channel      : Http://youtube.com/andisetiadii  |
+' ---------------------------------------------------------
+'   _             _ _   __      _   _           _ _
+'  /_\  _ __   __| (_) / _\ ___| |_(_) __ _  __| (_)
+' //_\\| '_ \ / _` | | \ \ / _ \ __| |/ _` |/ _` | |
+'/  _  \ | | | (_| | | _\ \  __/ |_| | (_| | (_| | |
+'\_/ \_/_| |_|\__,_|_| \__/\___|\__|_|\__,_|\__,_|_|
+'
+'           Auth    : Andi Setiadi
+'           Date    : 28 Oktober 2021
+'           About   : Context Menu Sheet
+
+'===--------------***-----------------===
+'   Simpan di ThisWorkbook Module 
+'===--------------***-----------------===
+
 Private Sub Workbook_SheetBeforeRightClick(ByVal Sh As Object, ByVal Target As Range, Cancel As Boolean)
 Dim CmdBtn As CommandBarButton, CmdBtn2 As CommandBarButton
 Dim CMenu As CommandBar
@@ -38,9 +55,9 @@ With Menu2
 End With
 End Sub
       
-'------------------------------------  
-'Simpan di Module
-'------------------------------------      
+'===--------------***-----------------=== 
+'   Simpan di Module (Standar Module)
+'===--------------***-----------------===     
       
       Public Sub menu_saya()
         ActiveCell.Value = Date
