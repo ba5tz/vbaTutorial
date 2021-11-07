@@ -25,10 +25,10 @@
 ###### YouTube Channel: https://youtube.com/andisetiadii
 
 Belikan Saya Kopi:
-https://lynk.id/setiadi"
+https://lynk.id/setiadi
 
 Business Inquiries:
-Email: saya@setiadi.my.id    | Https://setiadi.my.id
+saya@setiadi.my.id   | Https://setiadi.my.id
 -----
 ### Playlist
 * [Materi VBA Dasar](#materi-vba-dasar)
