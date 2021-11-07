@@ -24,11 +24,14 @@
 <!-- TABLE OF CONTENTS -->
 ###### YouTube Channel: https://youtube.com/andisetiadii
 
+```js
 Belikan Saya Kopi:
 https://lynk.id/setiadi
 
 Business Inquiries:
-saya@setiadi.my.id   | Https://setiadi.my.id
+email : saya@setiadi.my.id
+website : https://setiadi.my.id
+```
 -----
 ### Playlist
 * [Materi VBA Dasar](#materi-vba-dasar)
