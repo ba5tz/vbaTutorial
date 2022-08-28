@@ -1,5 +1,7 @@
 Attribute VB_Name = "ModTaskIcon"
 Option Explicit
+Rem Andi Setiadi
+Rem https://youtube.com/andisetiadii
 
 Private Type GUID
     Data1 As Long
