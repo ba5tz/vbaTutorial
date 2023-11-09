@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<hta:Application
+		id ="testHta"
+		scroll ="No"
+		innerBorder="No" />
+		
+	<title>Youtube Andi Setiadi</title>
+	<script type="text/vbscript">
+	sub pesan()
+		msgbox "Hallo, saya HTA", vbinformation, "test 1"
+	end sub
+	
+	Sub bacaExcel()
+		Set Objs = createObject("Wscript.Shell")
+		lokasi = objs.currentDirectory
+		
+		set xlapp = createObject("Excel.Application")
+		set Wb  = xlapp.workbooks.open(lokasi & "\Book1.xlsx")
+		
+		hasil = wb.worksheets("Sheet1").Range("C2").value 
+		asal = wb.worksheets("Sheet1").Range("C3").value 
+		wb.close
+		xlapp.quit
+		
+		document.getelementByID("apaya").innerHTML = "Nama saya" & hasil & " dari " & asal
+		
+	End Sub
+	
+	
+	</script>
+	
+</head>
+<body>
+	<h1 id="apaya">Kamu siapa?</h1>
+	<input type="Button" onclick="pesan()" value="hallo"/>
+	<input type="Button" onclick="bacaExcel()" value="Baca Excel"/>
+</body>
+</html>
